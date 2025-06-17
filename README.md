@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-Stack .NET Developer with hands-on experience in .NET Core, Angular, SQL, and React. Passionate about building scalable applications. Enthusiastic about collaboration, clean code, and Agile practices, with a focus on continuous learning and growth</p>
+<p align="center">Full-Stack .NET Developer with hands-on experience in .NET Core, Angular, SQL, and React. Passionate about building scalable applications. Enthusiastic about collaboration, clean code, and Agile practices, with a focus on continuous learning and growth</p>
 
 ###
 
